@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS5 10.0.5.1:7070; SOCKS 10.0.5.1:7070;";
+var wall_proxy = "SOCKS5 10.0.5.1:1086; SOCKS 10.0.5.1:1086;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
